@@ -90472,7 +90472,7 @@ __webpack_require__(/*! ./components/AppWebview */ "./resources/js/components/Ap
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\N.Devs\Documents\GitHub\admin-system-blackbord\resources\js\webview.js */"./resources/js/webview.js");
+module.exports = __webpack_require__(/*! C:\Users\N.Devs\Documents\GitHub\admin-system-blackboard\resources\js\webview.js */"./resources/js/webview.js");
 
 
 /***/ })
