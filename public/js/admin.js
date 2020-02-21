@@ -94443,7 +94443,7 @@ function TermOfUse() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\N.Devs\Documents\GitHub\admin-system-blackbord\resources\js\admin.js */"./resources/js/admin.js");
+module.exports = __webpack_require__(/*! C:\Users\N.Devs\Documents\GitHub\admin-system-blackboard\resources\js\admin.js */"./resources/js/admin.js");
 
 
 /***/ })
